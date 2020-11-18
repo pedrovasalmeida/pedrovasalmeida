@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Pedro.</h1>
  
 - 🚣🏻 I’m currently focus on studying **React** and **Node.js**.
@@ -7,8 +8,6 @@
 - 📩 Reach me at **pedrovasalmeida@gmail.com**.
 
 - ⚡ Fun fact **Jujutsu Kaisen is the best animation of 2020.**
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/pedrovasalmeida)](https://www.linkedin.com/in/pedro-vasconcellos-a272851a0)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pedrovasalmeida&show_icons=true&theme=react)
 
