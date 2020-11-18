@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Pedro.</h1>
+<h1 align="center">Hey you 👋, I'm Pedro.</h1>
  
 - 🚣🏻 I’m currently focus on studying **React** and **Node.js**.
 
