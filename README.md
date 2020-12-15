@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://dev.to/pedrovasalmeida" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pedrovasalmeida" height="30" width="40" /></a>
 <a href="https://twitter.com/pedroohva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pedrovasalmeida" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pedro-vasconcellos-a272851a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedrovasalmeida" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pedrovasalmeida/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedrovasalmeida" height="30" width="40" /></a>
 <a href="https://instagram.com/pedroohva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pedrovasalmeida" height="30" width="40" /></a>
 </p>
 
