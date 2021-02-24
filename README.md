@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey you 👋, I'm Pedro.</h1>
  
-- 🚣🏻 I’m currently focus on studying **React** and **Node.js**.
+- 🚣🏻 I’m currently focus on studying **React** universe and **Node.js**.
 
 - 🙅‍♂️ Ask me about **Games and TV Shows / Movies**.
 
