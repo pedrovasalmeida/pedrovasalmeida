@@ -13,6 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ 
+![Twitter](https://img.shields.io/badge/pedroohva-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/pedrovasalmeida-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/pedroohva-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) 
+ 
 <a href="https://twitter.com/pedroohva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pedrovasalmeida" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/pedrovasalmeida/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedrovasalmeida" height="30" width="40" /></a>
 <a href="https://instagram.com/pedroohva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pedrovasalmeida" height="30" width="40" /></a>
