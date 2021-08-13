@@ -7,7 +7,7 @@
 
 - 📩 Reach me at **pedrovasalmeida@gmail.com**.
 
-- ⚡ Fun fact: **Jujutsu Kaisen is the best animation of 2020.**
+- ⚡ Fun fact: **Jujutsu Kaisen is the best animation of 2020/21.**
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pedrovasalmeida&show_icons=true&theme=react)
 
